@@ -1,2 +1,1 @@
-setblock -146 247 -141 air
-setblock -146 237 -141 redstone_block
+setblock -147 247 -133 redstone_block
