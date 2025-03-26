@@ -3,7 +3,7 @@
     "header": {
       "description": "Custom commands (yes this was made specifically for today)",
       "name": "Custom Commands for moderation",
-      "uuid":"3958f9a2-96e4-4db0-a907-145d065cd7f0",
+      "uuid":"94e88f33-fbbd-47b8-8660-4067bb572f77",
       "version": [1, 0, 0],
       "min_engine_version": [1, 16, 0]
     },
